@@ -1,5 +1,6 @@
 # Steps to run:
 ```
+Install python3+
 pip3 install pyautogui
 pip3 install webbot
 
