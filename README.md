@@ -3,7 +3,7 @@
 pip3 install pyautogui
 pip3 install webbot
 
-https://github.com/adityavkulkarni/imr
+git clone https://github.com/adityavkulkarni/imr
 
 Go to The directory: cd imr
 
